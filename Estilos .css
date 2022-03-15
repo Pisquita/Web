@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html {
+  background-color: blueviolet;
+}
+
+body {
+  width: 750px;
+  height: 750px;
+  background-color: brown;
+  border: 1px solid white;
+  margin: auto;
+  margin-top: 20px;
+}
+
+header {
+  height: 250px;
+  width: 750px;
+  background-color: rgb(218, 51, 190);
+}
+
+nav {
+  height: 50px;
+  width: 750px;
+  background-color: blue;
+}
+main {
+  height: 400px;
+  width: 750px;
+  background-color: rgb(209, 212, 14);
+}
+footer {
+  height: 50px;
+  width: 750px;
+  background-color: aqua;
+}
